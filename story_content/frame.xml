@@ -1,0 +1,1443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns11111000111" textdirection="ltr" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified">
+  <layouts>
+    <layout name="npnxnanbsnfns11111000111" font="Lato" controllayout="npnxnanbsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+    <layout name="pxabnsnfns11111000111" font="Lato" controllayout="pxabnsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+    <layout name="npxnabnsnfns11111000111" font="Lato" controllayout="npxnabnsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+    <layout name="npnxnanbnsnfns11111000111" font="Lato" controllayout="npnxnanbnsnfns11111000111" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+    <layout name="pxabnsnfns11111000110" font="Lato" controllayout="pxabnsnfns11111000110" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+    <layout name="npnxnanbsnfns11111000110" font="Lato" controllayout="npnxnanbsnfns11111000110" colorscheme="pxabnsnfns11111000111" string_table="pxabnsnfns11111000111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="Review on barter money public and private sector" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\6jvnOQ6vvgR_DX1024_DY1024.swf" />
+              <option name="html5_logo_url" value="mobile/6iFbYA9lOdK.png" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="left" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Skip" />
+                  <property name="data" value="6TnZGcyZvyD" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="customlink" value="true" group="linkright">
+                <properties>
+                  <property name="title" value="Close" />
+                  <property name="data" value="6eE09wNo2Em" />
+                  <property name="ignoreSlideLock" value="true" />
+                </properties>
+              </listitem>
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="false" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="true">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="true">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="true" />
+          <option name="replay" value="true" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Lato" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="buttonoptions">
+        <options>
+          <option name="next" value="icontext" />
+          <option name="previous" value="icontext" />
+          <option name="submit" value="icontext" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns11111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns11111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns11111000111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns11111000110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="npnxnanbsnfns11111000110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="true" />
+      <control name="replay" enabled="true" />
+      <control name="pauseplay" enabled="true" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="false" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pxabnsnfns11111000111">
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="preloader">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFF0000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x316300" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4E4E4E" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x222222" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="scene_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x212121" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x404040" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x323232" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bottom_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x313131" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x292929" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAAAAAA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x457E13" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3F8500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_in_tab">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x545454" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6AA242" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x275000" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x4B8A16" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x494949" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7B7B7B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x479901" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x366F00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1B1B1B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="generic_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="right_shadow">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x000000" alpha="30" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x254B00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xAFDD82" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2A5300" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="brandhighlight">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED3645" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB4B4B4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x1B1B1B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x282828" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="overlay_message">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x323232" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2B5500" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x428C01" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0x3C3C3C" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="40" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pxabnsnfns11111000111">
+      <string id="acc_active">active</string>
+      <string id="check_include">Check to include</string>
+      <string id="clear">Clear and return to menu</string>
+      <string id="close">Close</string>
+      <string id="acc_closed_captions">Closed captions. Press the spacebar to toggle captions on and off.</string>
+      <string id="continue">Continue</string>
+      <string id="continueresponsive">Continue</string>
+      <string id="exit">Exit</string>
+      <string id="filter">Filter</string>
+      <string id="finish">FINISH</string>
+      <string id="acc_finish">finish</string>
+      <string id="definition">Definition</string>
+      <string id="acc_definition">definition</string>
+      <string id="glossary">Glossary</string>
+      <string id="terms">Terms</string>
+      <string id="outline">Menu</string>
+      <string id="disabled_orientation">Please rotate your device</string>
+      <string id="next">NEXT</string>
+      <string id="acc_next">next</string>
+      <string id="transcript_chk">Notes</string>
+      <string id="transcript">Notes</string>
+      <string id="bio">Bio</string>
+      <string id="more_info">More info</string>
+      <string id="closed_captions">Captions</string>
+      <string id="acc_pause">pause</string>
+      <string id="acc_play">play</string>
+      <string id="send_an_email">Send an email</string>
+      <string id="prev">PREV</string>
+      <string id="acc_previous">previous</string>
+      <string id="question_list">Question List</string>
+      <string id="acc_replay">replay</string>
+      <string id="resources">Resources</string>
+      <string id="acc_resources">resources</string>
+      <string id="restart">Restart</string>
+      <string id="resume">Resume</string>
+      <string id="search">Search...</string>
+      <string id="acc_search_input">search</string>
+      <string id="search_in">Search in:</string>
+      <string id="search_results">Search Results</string>
+      <string id="acc_skipnavigation">Skip navigation. Press enter to return to the slide.</string>
+      <string id="slide_text_chk">Slide Text</string>
+      <string id="submitall">SUBMIT ALL</string>
+      <string id="acc_submitall">submit all</string>
+      <string id="submit">SUBMIT</string>
+      <string id="acc_submit">submit</string>
+      <string id="acc_volume">volume</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Lato">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.6g0MXREZltH" displaytext="Introduction" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6g0MXREZltH.6eZy7UgGxJw" displaytext="Opening" expand="false" type="slide" />
+            <slidelink slideid="_player.6g0MXREZltH.5hbbBEu1EBz" displaytext="Review option" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.64qILKtSoBF" displaytext="Barter and Money" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.64qILKtSoBF.6X94857HfAN" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6rmc4MO2LTX" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6qQEd8DeNfP" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.5n05n8o1jMQ" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6rYYQjdDqE5" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6GGFLNvfSqF" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.5V98QTZQKtz" displaytext="Multiple Choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6gHNdibx1ax" displaytext="Fill in the blank" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.5prSsPpgbsC" displaytext="Fill in the blank" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.5oQ4ZHtDxt5" displaytext="Fill in the blank" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6e011kr14JH" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6qbtcPgzwAT" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.6WKH1AsU1KB" displaytext="Drag and Drop" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.5naRVOksM6Q" displaytext="Matching" expand="false" type="slide" />
+            <slidelink slideid="_player.64qILKtSoBF.5lRArJ1cWdo" displaytext="EXIT COURSE" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.6OOqlgwrJFe" displaytext="Public and Private Sector" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6OOqlgwrJFe.66lrDePsv3B" displaytext="Introduction" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6Hy1ZRZFYVe" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.5sjpRsTFRdp" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6WCZk6YxN03" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.5w3laiy3LNa" displaytext="Multiple choice" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.63j0ULgBshW" displaytext="Selection" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.5xp2QTggK5o" displaytext="Fill in the blank" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6BoYCywpTCk" displaytext="Fill in the blank" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6RmWUIDhdcN" displaytext="True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6a9LMMg4SdC" displaytext="True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.5lVF31HnUOM" displaytext="True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6RMOd7OV3Yj" displaytext="True or false" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6PXniVH6hjA" displaytext="Drag and drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6LXNDSWvlM6" displaytext="Drag and drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.6K33Wg9Ynnj" displaytext="Drag and drop" expand="false" type="slide" />
+            <slidelink slideid="_player.6OOqlgwrJFe.5hfyuNxKEXc" displaytext="EXIT COURSE" expand="false" type="slide" />
+          </links>
+        </slidelink>
+        <slidelink slideid="_player.5Y0eXWvQ1OH" displaytext="Board Game" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5Y0eXWvQ1OH.5sS459gf7FG" displaytext="Intro " expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.6Bn7Eu4vmPI" displaytext="Welcome - Gamepiece" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.61YiIvhdVRU" displaytext="Board Game" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.63YCHklgAtB" displaytext="EXIT COURSE" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.6HAbzUQ1vpP" displaytext="Question 2" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.6oqFcKAt8bT" displaytext="Question 1" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.6U1HB3Qqt1S" displaytext="Question 3" expand="false" type="slide" />
+            <slidelink slideid="_player.5Y0eXWvQ1OH.6KiFn7sni5X" displaytext="Question 4" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="6g0MXREZltH.6eZy7UgGxJw" slidebank="false" type="slide">  principles of business review   click here to begin click here to begin click here to begin click here to begin click here to begin click here to begin </slidetext>
+      <slidetext slideid="6g0MXREZltH.5hbbBEu1EBz" slidebank="false" type="slide">click on the options below to take your learning path barter and money barter and money barter and money barter and money barter and money barter and money public and private sector public and private sector public and private sector public and private sector public and private sector public and private sector game time game time game time game time game time game time </slidetext>
+      <slidetext slideid="64qILKtSoBF.6X94857HfAN" slidebank="false" type="slide">barter is the exchange of goods and services for other goods and services without the use of money.   this section will allow you to test your knowledge on barter and money click here and let us begin click here and let us begin click here and let us begin click here and let us begin click here and let us begin click here and let us begin </slidetext>
+      <slidetext slideid="64qILKtSoBF.6rmc4MO2LTX" slidebank="false" type="slide">submit which of the following exemplifies a barter economy? goods and services are exchanged for money payments goods and services are exchanged for money payments goods and services are exchanged for money payments goods and services are exchanged for money payments goods and services are exchanged for money payments goods and services are exchanged for money payments goods are not traded because there is no double coincidence of wants goods are not traded because there is no double coincidence of wants goods are not traded because there is no double coincidence of wants goods are not traded because there is no double coincidence of wants goods are not traded because there is no double coincidence of wants goods are not traded because there is no double coincidence of wants goods and services are exchanged for other goods goods and services are exchanged for other goods goods and services are exchanged for other goods goods and services are exchanged for other goods goods and services are exchanged for other goods goods and services are exchanged for other goods a commodity such as cowrie shells serves as a means of payment a commodity such as cowrie shells serves as a means of payment a commodity such as cowrie shells serves as a means of payment a commodity such as cowrie shells serves as a means of payment a commodity such as cowrie shells serves as a means of payment a commodity such as cowrie shells serves as a means of payment multiple choice </slidetext>
+      <slidetext slideid="64qILKtSoBF.6qQEd8DeNfP" slidebank="false" type="slide">submit fiat money fiat money fiat money fiat money fiat money fiat money representative money representative money representative money representative money representative money representative money near money near money near money near money near money near money commodity money commodity money commodity money commodity money commodity money commodity money multiple choice a number of commodities such as cowrie shells, cattle, salt and sugar were used as money.  this type of money is referred to as </slidetext>
+      <slidetext slideid="64qILKtSoBF.5n05n8o1jMQ" slidebank="false" type="slide">submit near money near money near money near money near money near money commodity money commodity money commodity money commodity money commodity money commodity money token money token money token money token money token money token money intrinsic money intrinsic money intrinsic money intrinsic money intrinsic money intrinsic money multiple choice coins can be used to carry out transactions only up to a limited value.  coins are therefore </slidetext>
+      <slidetext slideid="64qILKtSoBF.6rYYQjdDqE5" slidebank="false" type="slide">submit fiat money fiat money fiat money fiat money fiat money fiat money representative money representative money representative money representative money representative money representative money near money near money near money near money near money near money commodity money commodity money commodity money commodity money commodity money commodity money multiple choice in modern societies, cheques, credit cards and debit cards are used as money.  money in this form is known as </slidetext>
+      <slidetext slideid="64qILKtSoBF.6GGFLNvfSqF" slidebank="false" type="slide">submit division of labour division of labour division of labour division of labour division of labour division of labour specialization specialization specialization specialization specialization specialization barter barter barter barter barter barter direct production direct production direct production direct production direct production direct production multiple choice a situation in which inhabitants in an economy satisfy all their needs through their own efforts is called </slidetext>
+      <slidetext slideid="64qILKtSoBF.5V98QTZQKtz" slidebank="false" type="slide">submit fiat money fiat money fiat money fiat money fiat money fiat money representative money representative money representative money representative money representative money representative money near money near money near money near money near money near money commodity money commodity money commodity money commodity money commodity money commodity money multiple choice notes and coins that are deemed legal tender is known as what type of money </slidetext>
+      <slidetext slideid="64qILKtSoBF.6gHNdibx1ax" slidebank="false" type="slide">type your text here joel is unable to buy gas for his car because the gas station does not accept cash.  which payment instrument will allow him access to his funds electronically?  </slidetext>
+      <slidetext slideid="64qILKtSoBF.5prSsPpgbsC" slidebank="false" type="slide">type your text here jenny wants to pay a regular fixed amount to a trader.  which method of payment would the bank use? </slidetext>
+      <slidetext slideid="64qILKtSoBF.5oQ4ZHtDxt5" slidebank="false" type="slide">type your text here james construction wants to pay the wages of its employees electronically. which payment method would they use? </slidetext>
+      <slidetext slideid="64qILKtSoBF.6e011kr14JH" slidebank="false" type="slide">submit cheque cheque cheque cheque cheque cheque bank note bank note bank note bank note bank note bank note credit card credit card credit card credit card credit card credit card debit card debit card debit card debit card debit card debit card multiple choice which one of the following forms of payment is considered legal tender? </slidetext>
+      <slidetext slideid="64qILKtSoBF.6qbtcPgzwAT" slidebank="false" type="slide">submit money laundering money laundering money laundering money laundering money laundering money laundering electronic funds transfer electronic funds transfer electronic funds transfer electronic funds transfer electronic funds transfer electronic funds transfer a bank draft a bank draft a bank draft a bank draft a bank draft a bank draft ethical behaviour ethical behaviour ethical behaviour ethical behaviour ethical behaviour ethical behaviour multiple choice where a bank account is set up to siphon off the proceeds from criminal activity this is described as </slidetext>
+      <slidetext slideid="64qILKtSoBF.6WKH1AsU1KB" slidebank="false" type="slide">this drag-and-drop image to match the correct statement in each box.  lets see what you remember. drag-and-drop  sending of money through electronic wire transfer option 01 option 02 this instrument of exchange can be used to pay for items online and at a point of sale terminal. option 03 option 04 this instrument of exchange is drawn directly on the bank. this instrument of exchange is drawn on the account holders bank account. </slidetext>
+      <slidetext slideid="64qILKtSoBF.5naRVOksM6Q" slidebank="false" type="slide">let’s recall the functions of money.  match the statements on the left with the functions listed on the right. my tv can be purchased on hire purchase means of deferred payment a pair of nike shoes for $400.00 is worth ten times more than a cap.  this functions deals with the prices of items. standard of value it makes easy the exchange of currency for purchase goods and services price mechanism it can be saved up and used to purchase a jeep in four year’s time. store of value </slidetext>
+      <slidetext slideid="64qILKtSoBF.5lRArJ1cWdo" slidebank="false" type="slide">restart course restart course restart course we have fully reviewed barter and mediums of exchange and payment.  we have learnt what is barter and the different mediums of exchange and payments.  we were able to make practical applications to ensure that the concepts were fully understood. let us keep up the good work as we move forward. thanks for completing the course exit course </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.66lrDePsv3B" slidebank="false" type="slide">there are two main sectors of an economy.  they are the public and the private sector.  let us see what we can remember about these two sectors by engaging in the activities.  click here to begin click here to begin click here to begin click here to begin click here to begin click here to begin </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6Hy1ZRZFYVe" slidebank="false" type="slide">partnership a a a a b b b b cooperative c c c c joint venture d d d d sole trader sandra has opened an account in st. john’s credit union on all saints road.  this is known as a multiple choice </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.5sjpRsTFRdp" slidebank="false" type="slide">government a a a a b b b b shareholders c c c c employees d d d d municipal the owners of a public limited company are the multiple choice </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6WCZk6YxN03" slidebank="false" type="slide">private compnay a a a a b b b b franchise c c c c public company d d d d joint venture an incorporated company that offers shares to the public is called a multiple choice </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.5w3laiy3LNa" slidebank="false" type="slide">submit in the absence of a partnership deed, profits and losses in a partnership must be shared in accordance with the companies act of 1967 in accordance with the companies act of 1967 in accordance with the companies act of 1967 in accordance with the companies act of 1967 in accordance with the companies act of 1967 in accordance with the companies act of 1967 in proportion to the capital provided by each partner in proportion to the capital provided by each partner in proportion to the capital provided by each partner in proportion to the capital provided by each partner in proportion to the capital provided by each partner in proportion to the capital provided by each partner depending upon the role each partner plays in the business depending upon the role each partner plays in the business depending upon the role each partner plays in the business depending upon the role each partner plays in the business depending upon the role each partner plays in the business depending upon the role each partner plays in the business equally amongst all owners of the business equally amongst all owners of the business equally amongst all owners of the business equally amongst all owners of the business equally amongst all owners of the business equally amongst all owners of the business multiple choice </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.63j0ULgBshW" slidebank="false" type="slide">which of the following business organizations has its shares traded on the stock exchange? </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.5xp2QTggK5o" slidebank="false" type="slide">type your text here an association of 2 to 20 individuals operating a business to make a profit is called a  </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6BoYCywpTCk" slidebank="false" type="slide">type your text here the process of transferring a business from the private sector to the public sector is referred to as </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6RmWUIDhdcN" slidebank="false" type="slide">true true true true true true false false false false false false an economy is a system in which production, distribution and consumption takes place </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6a9LMMg4SdC" slidebank="false" type="slide">true true true true true true false false false false false false kfc and subway are all examples of private limited companies. </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.5lVF31HnUOM" slidebank="false" type="slide">true true true true true true false false false false false false limited liability means that the maximum sum that the company’s owners have to pay out to meet debts is the sum they invested in the business </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6RMOd7OV3Yj" slidebank="false" type="slide">true true true true true true false false false false false false a sole trader business has limited liability. </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6PXniVH6hjA" slidebank="false" type="slide">apua supplies utilities to the country of antigua and barbuda.  this is a private sector private limited company public sector public limited company </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6LXNDSWvlM6" slidebank="false" type="slide">owned by private shareholders and shares are not openly traded on a stock exchange private sector private limited company public sector public limited company </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.6K33Wg9Ynnj" slidebank="false" type="slide">small, medium and even large-scale businesses  private sector private limited company public sector public limited company </slidetext>
+      <slidetext slideid="6OOqlgwrJFe.5hfyuNxKEXc" slidebank="false" type="slide">restart course restart course restart course we have fully reviewed private and public sectors.  we made use of practical activities and everyday examples to ensure that the concepts were fully understood by all. let us keep up the good work as we move forward. thanks for completing the course exit course </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.5sS459gf7FG" slidebank="false" type="slide">board game land start start start start start start please turn on the volume </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.6Bn7Eu4vmPI" slidebank="false" type="slide"> welcome! ok! ok! ok! ok! ok! ok! welcome to this board game  this is just a little board game to test your knowledge  please choose a color for your game piece. let’s play </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.61YiIvhdVRU" slidebank="false" type="slide">q2 q3 q4 q1 board game land </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.63YCHklgAtB" slidebank="false" type="slide">restart course restart course restart course hope you had fun!!!!! thanks for completing the course exit course home home home home home home </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.6HAbzUQ1vpP" slidebank="false" type="slide">question 2 question 2 submit submit submit submit submit submit increase inequalities in the distribution of income increase inequalities in the distribution of income increase inequalities in the distribution of income bring about price instability. bring about price instability. bring about price instability. ensure growth in national output ensure growth in national output ensure growth in national output governments often nationalize  industries because of the need to increase foreign imports increase foreign imports increase foreign imports increase foreign imports increase foreign imports increase foreign imports </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.6oqFcKAt8bT" slidebank="false" type="slide">question 1 question 1 submit submit submit submit submit submit payee payee payee drawee drawee drawee chequer chequer chequer the person whose account is debited when a cheque is presented for payment is called the drawer drawer drawer drawer drawer drawer </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.6U1HB3Qqt1S" slidebank="false" type="slide">question 3 question 3 submit submit submit submit submit submit private enterprises are profit driven and therefore efficient private enterprises are profit driven and therefore efficient private enterprises are profit driven and therefore efficient it allows for wide share ownership it allows for wide share ownership it allows for wide share ownership it can enjoy monopoly power it can enjoy monopoly power it can enjoy monopoly power the following are benefits of privatization except government earns revenue from taxes government earns revenue from taxes government earns revenue from taxes government earns revenue from taxes government earns revenue from taxes government earns revenue from taxes </slidetext>
+      <slidetext slideid="5Y0eXWvQ1OH.6KiFn7sni5X" slidebank="false" type="slide">question 4 question 4 submit submit submit submit submit submit has been kept uncashed for more than six months has been kept uncashed for more than six months has been kept uncashed for more than six months has been dated for payment at some future time has been dated for payment at some future time has been dated for payment at some future time cannot be cashed but can be deposited into a bank account cannot be cashed but can be deposited into a bank account cannot be cashed but can be deposited into a bank account a stale dated cheque is one that allows whoever presenting it to receive cash allows whoever presenting it to receive cash allows whoever presenting it to receive cash allows whoever presenting it to receive cash allows whoever presenting it to receive cash allows whoever presenting it to receive cash </slidetext>
+      <slidetext slideid="5XBoUwP6MMP" slidebank="true" type="slide">6 6 6 6 6 6 6 x 0 = ? 60 60 60 60 60 60 0 0 0 0 0 0 </slidetext>
+      <slidetext slideid="5ZB17d4Gp7p" slidebank="true" type="slide">16 16 16 16 16 16 6 x 1 = ? 60 60 60 60 60 60 6 6 6 6 6 6 </slidetext>
+      <slidetext slideid="6qixTl2Vbvv" slidebank="true" type="slide">8 8 8 8 8 8 6 x 2 = ? 18 18 18 18 18 18 12 12 12 12 12 12 </slidetext>
+      <slidetext slideid="6Jvfpdsq4qk" slidebank="true" type="slide">9 9 9 9 9 9 6 x 3 = ? 24 24 24 24 24 24 18 18 18 18 18 18 </slidetext>
+      <slidetext slideid="5paO0FiaRFN" slidebank="true" type="slide">10 10 10 10 10 10 6 x 4 = ? 14 14 14 14 14 14 24 24 24 24 24 24 </slidetext>
+      <slidetext slideid="5i9YuZRMYmV" slidebank="true" type="slide">36 36 36 36 36 36 6 x 5 = ? 11 11 11 11 11 11 30 30 30 30 30 30 </slidetext>
+      <slidetext slideid="6r7B0cYiIA3" slidebank="true" type="slide">12 12 12 12 12 12 6 x 6 = ? 1 1 1 1 1 1 36 36 36 36 36 36 </slidetext>
+      <slidetext slideid="5g4N60U6OiR" slidebank="true" type="slide">13 13 13 13 13 13 6 x 7 = ? 49 49 49 49 49 49 42 42 42 42 42 42 </slidetext>
+      <slidetext slideid="69mLzMOh7tb" slidebank="true" type="slide">64 64 64 64 64 64 6 x 8 = ? 42 42 42 42 42 42 48 48 48 48 48 48 </slidetext>
+      <slidetext slideid="6Zekr5qSvI5" slidebank="true" type="slide">64 64 64 64 64 64 6 x 9 = ? 44 44 44 44 44 44 54 54 54 54 54 54 </slidetext>
+      <slidetext slideid="6QgyPJRlK80" slidebank="true" type="slide">6 6 6 6 6 6 6 x 10 = ? 16 16 16 16 16 16 60 60 60 60 60 60 </slidetext>
+      <slidetext slideid="5uUCNKF8AsH" slidebank="true" type="slide">16 16 16 16 16 16 6 x 11 = ? 60 60 60 60 60 60 66 66 66 66 66 66 </slidetext>
+      <slidetext slideid="5iLlRAz23sS" slidebank="true" type="slide">question 1 buy why, some say, the moon? why choose this as our goal?  and they may as well ask why climb the highest mountain?  that's one small step for [a] man, one giant leap for mankind. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="6j5uq6EwtVO" slidebank="true" type="slide">question 2 what was most significant about the lunar voyage was not that man set foot on the moon but that they set eye on the earth.  astronomy compels the soul to look upward and leads us from this world to another. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="5uzp7an4EAw" slidebank="true" type="slide">question 3 never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="61BLv5png38" slidebank="true" type="slide">incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect question 4 spaceflights are not the work of any one man or even a group of men.  it is a historical process which mankind is carrying out in accordance with the natural laws of human development. </slidetext>
+      <slidetext slideid="6OMIyWUYGaN" slidebank="true" type="slide">incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect question 5 dinosaurs are extinct today because they lacked opposable thumbs and the brainpower to build a space program. </slidetext>
+      <slidetext slideid="6jMYpr8xIJA" slidebank="true" type="slide">question 6 buy why, some say, the moon? why choose this as our goal?  and they may as well ask why climb the highest mountain?  that's one small step for [a] man, one giant leap for mankind. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="6Z4OAmD5fMg" slidebank="true" type="slide">question 7 what was most significant about the lunar voyage was not that man set foot on the moon but that they set eye on the earth.  astronomy compels the soul to look upward and leads us from this world to another. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="6cCrTtOv3SM" slidebank="true" type="slide">question 8 never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="5v8TETaJwdY" slidebank="true" type="slide">incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect question 9 spaceflights are not the work of any one man or even a group of men.  it is a historical process which mankind is carrying out in accordance with the natural laws of human development. </slidetext>
+      <slidetext slideid="6WeSB4o6LnV" slidebank="true" type="slide">incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect question 10 dinosaurs are extinct today because they lacked opposable thumbs and the brainpower to build a space program. </slidetext>
+      <slidetext slideid="631ZG1EaJ7a" slidebank="true" type="slide">question 11 buy why, some say, the moon? why choose this as our goal?  and they may as well ask why climb the highest mountain?  that's one small step for [a] man, one giant leap for mankind. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="5YZmtii4EDY" slidebank="true" type="slide">question 72 what was most significant about the lunar voyage was not that man set foot on the moon but that they set eye on the earth.  astronomy compels the soul to look upward and leads us from this world to another. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="5h8MqRIr5o2" slidebank="true" type="slide">question 13 never in all their history have men been able truly to conceive of the world as one: a single sphere, a globe, having the qualities of a globe, a round earth in which all the directions eventually meet. incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect </slidetext>
+      <slidetext slideid="5qCPP0Fux4b" slidebank="true" type="slide">incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect question 14 spaceflights are not the work of any one man or even a group of men.  it is a historical process which mankind is carrying out in accordance with the natural laws of human development. </slidetext>
+      <slidetext slideid="6o5MohPCONE" slidebank="true" type="slide">incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect incorrect correct correct correct correct correct correct incorrect incorrect incorrect incorrect incorrect incorrect question 15 dinosaurs are extinct today because they lacked opposable thumbs and the brainpower to build a space program. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
